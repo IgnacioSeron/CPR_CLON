@@ -1,5 +1,19 @@
 .MainHeader {
     background-color: #000;
-    height: 8rem;
-    padding: 20px;
+    height: 5rem;
+    padding: 1.25rem;
+    display: flex;
+    justify-content: space-around;
+}
+p {
+    color: white;
+}
+.Centro {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.Medio {
+    margin-left: 10px;
+    margin-right: 10px;
 }
