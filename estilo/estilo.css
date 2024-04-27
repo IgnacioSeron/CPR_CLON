@@ -27,11 +27,11 @@ p, a{
     margin-left: 10px;
     margin-right: 10px;
 }
-.Izquierda {
+.Derecha {
     display: flex;
     justify-content: space-evenly;
 }
-.Izquierda a:hover {
+.Derecha a:hover {
     color:red;
 }
 .Facebook {
@@ -123,4 +123,22 @@ p, a{
     justify-content: center;
     align-items: center;
     text-decoration: none;
+}
+.Idioma {
+    display: flex;
+    align-items: center;
+    margin-left: 22px;
+}
+.PL {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+.ENG {
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+}
+.Slash {
+    color:white;
 }
