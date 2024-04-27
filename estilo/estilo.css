@@ -30,17 +30,97 @@ p, a{
 .Izquierda {
     display: flex;
     justify-content: space-evenly;
+}
+.Izquierda a:hover {
+    color:red;
+}
+.Facebook {
+    color: #3a3a3a;
+    margin-right: 4px;
+    border: 1px solid #3a3a3a;
+    border-radius: 100px;
+    height: 30px;
+    width: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.Linkedin {
+    color: #3a3a3a;
+    margin-left: 0px;
+    margin-right: 4px;
     border: 1px solid #3a3a3a;
     border-radius: 26px;
     height: 30px;
     width: 30px;
-}
-.Facebook {
-    color: #3a3a3a;
-}
-.Linkedin {
-    color: #3a3a3a;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
 .Twitter {
     color:#3a3a3a;
+    margin-left: 0px;
+    margin-right: 4px;
+    border: 1px solid #3a3a3a;
+    border-radius: 26px;
+    height: 30px;
+    width: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.YouTube {
+    color:#3a3a3a;
+    margin-left: 0px;
+    margin-right: 4px;
+    border: 1px solid #3a3a3a;
+    border-radius: 26px;
+    height: 30px;
+    width: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.Instagram {
+    color:#3a3a3a;
+    margin-left: 0px;
+    margin-right: 4px;
+    border: 1px solid #3a3a3a;
+    border-radius: 26px;
+    height: 30px;
+    width: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.TikTok {
+    color:#3a3a3a;
+    margin-left: 0px;
+    margin-right: 4px;
+    border: 1px solid #3a3a3a;
+    border-radius: 26px;
+    height: 30px;
+    width: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.Twitch {
+    color:#3a3a3a;
+    margin-left: 0px;
+    margin-right: 4px;
+    border: 1px solid #3a3a3a;
+    border-radius: 26px;
+    height: 30px;
+    width: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
