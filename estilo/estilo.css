@@ -6,9 +6,10 @@
     justify-content: space-around;
     align-items: center;
 }
-p {
+p, a{
     color: white;
-    font-style: sans-serif;
+    font-family: 'Proxima Nova Extra Condensed', sans-serif;
+    font-size: 21px;
 }
 .Centro {
     display:flex;
@@ -25,4 +26,21 @@ p {
 .Medio {
     margin-left: 10px;
     margin-right: 10px;
+}
+.Izquierda {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid #3a3a3a;
+    border-radius: 26px;
+    height: 30px;
+    width: 30px;
+}
+.Facebook {
+    color: #3a3a3a;
+}
+.Linkedin {
+    color: #3a3a3a;
+}
+.Twitter {
+    color:#3a3a3a;
 }
