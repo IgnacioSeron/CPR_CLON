@@ -4,14 +4,23 @@
     padding: 1.25rem;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 p {
     color: white;
+    font-style: sans-serif;
 }
 .Centro {
     display:flex;
     justify-content: center;
     text-align: center;
+}
+.Centro a {
+    color:white;
+    text-decoration: none;
+}
+.Centro a:hover {
+    color:red;
 }
 .Medio {
     margin-left: 10px;
