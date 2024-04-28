@@ -298,14 +298,13 @@ h2 {
 }
 .BloqueMain2 {
     background-color: #f6f6f6;
-    height: 500px;
+    height: 800px;
     display: flex;
 }
 .STU {
     color: red;
     position: relative;
     top: 20px;
-    left: 98px;
     font-size: 45px;
     font-weight: 800;
 }
@@ -316,13 +315,78 @@ h2 {
     left: 830px;
     font-size: 45px;
     font-weight: 800;
+    margin-bottom: 40px;
 }
 .Col1 {
-    margin-left: 0px;
+    margin-left: 85px;
 }
 .Col2 {
     width: 200px;
     position: relative;
     left: -1000px;
-    margin-left: 400px;
+    margin-left: 300px;
+}
+.warsaw, .worclaw, .boston, .cracrow, .vancouver {
+    height: 150px;
+    width: 450px;
+}
+.warsaw, .worclaw, .boston{
+    margin-top: 20px;
+}
+.cracrow, .vancouver {
+    margin-left: 20px;
+}
+.war {
+    position: absolute;
+    top: 1860px;
+    left: 280px;
+    font-size: 25px;
+}
+.war2 {
+    position: absolute;
+    top: 1900px;
+    left: 255px;
+    font-size: 20px;
+}
+.war3 {
+    position: absolute;
+    top: 1925px;
+    left: 257px;
+    font-size: 20px;
+}
+.cra {
+    position: absolute;
+    top: 1860px;
+    left: 750px;
+    font-size: 25px;
+}
+.cra2 {
+    position: absolute;
+    top: 1900px;
+    left: 750px;
+    font-size: 20px;
+}
+.cra3 {
+    position: absolute;
+    top: 1925px;
+    left: 740px;
+    font-size: 20px;
+}
+.wor {
+    position: absolute;
+    top: 2040px;
+    left: 280px;
+    font-size: 25px;
+}
+.wor2 {
+    position: absolute;
+    top: 2085px;
+    left: 150px;
+    font-size: 20px;
+}
+.wor3 {
+    position: absolute;
+    top: 1925px;
+    left: 740px;
+    font-size: 20px;
 }
