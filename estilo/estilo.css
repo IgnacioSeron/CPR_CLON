@@ -6,7 +6,7 @@
     justify-content: space-around;
     align-items: center;
 }
-p, a{
+p, a {
     color: white;
     font-family: 'Proxima Nova Extra Condensed', sans-serif;
     font-size: 21px;
@@ -144,7 +144,7 @@ p, a{
 }
 .FotoGrande {
     width: 1473px;
-    height: 630px;
+    height: 680px;
 }
 .Logo2 {
     height: 190px;
@@ -188,4 +188,52 @@ p, a{
     position: absolute;
     top: 570px;
     left: 720px;
+}
+.BloqueMain {
+    background-color: white;
+    height: 980px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ContenedorFooter {
+    background-color: #171717;
+}
+h2 {
+    font-family: 'Proxima Nova Extra Condensed', sans-serif;
+}
+.Negro {
+    color: #171717;
+}
+.Rojo {
+    color: red;
+}
+.Texto {
+    display: flex;
+    justify-content: center;
+}
+.P1 {
+    color: black;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-right: 200px;
+}
+.P2 {
+    color: black;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.Team {
+    height: 500px;
+    width: 640px;
+    margin-right: 10px;
+}
+.Join {
+    height: 500px;
+    width: 640px;
+    margin-left: 10px;
+}
+.BloqueMain2 {
+    background-color: #f6f6f6;
+    height: 500px;
 }
