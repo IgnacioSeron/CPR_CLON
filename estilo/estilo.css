@@ -46,73 +46,8 @@ p, a {
     align-items: center;
     text-decoration: none;
 }
-.Linkedin {
+.Linkedin, .Twitter, .YouTube, .Instagram, .TikTok, .Twitch {
     color: #3a3a3a;
-    margin-left: 0px;
-    margin-right: 4px;
-    border: 1px solid #3a3a3a;
-    border-radius: 26px;
-    height: 30px;
-    width: 30px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-.Twitter {
-    color:#3a3a3a;
-    margin-left: 0px;
-    margin-right: 4px;
-    border: 1px solid #3a3a3a;
-    border-radius: 26px;
-    height: 30px;
-    width: 30px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-.YouTube {
-    color:#3a3a3a;
-    margin-left: 0px;
-    margin-right: 4px;
-    border: 1px solid #3a3a3a;
-    border-radius: 26px;
-    height: 30px;
-    width: 30px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-.Instagram {
-    color:#3a3a3a;
-    margin-left: 0px;
-    margin-right: 4px;
-    border: 1px solid #3a3a3a;
-    border-radius: 26px;
-    height: 30px;
-    width: 30px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-.TikTok {
-    color:#3a3a3a;
-    margin-left: 0px;
-    margin-right: 4px;
-    border: 1px solid #3a3a3a;
-    border-radius: 26px;
-    height: 30px;
-    width: 30px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-.Twitch {
-    color:#3a3a3a;
     margin-left: 0px;
     margin-right: 4px;
     border: 1px solid #3a3a3a;
@@ -191,11 +126,11 @@ p, a {
 }
 .BloqueMain {
     background-color: white;
-    height: 1000px;
+    height: 950px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -50px;
+    margin-top: -70px;
 }
 .MEET {
     -webkit-text-stroke: 1px #fff;
@@ -258,6 +193,67 @@ p, a {
     height: 50px;
     width: 250px;
 }
+.JOIN {
+    -webkit-text-stroke: 1px #fff;
+    color: transparent;
+    position: absolute;
+    top: 920px;
+    left: 900px;
+    font-weight: 800;
+    font-size: 120px;
+}
+.Boton3 {
+    background-color: transparent;
+    text-decoration: none;
+    position: absolute;
+    top: 1210px;
+    left: 800px;
+    border: 2px solid red;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
+.BotonC {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -7px;
+}
+.BotonC:hover {
+    background-color: red;
+    border: 2px solid red;
+    margin-top: 3px;
+    margin-left: -8px;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
+.Boton4 {
+    background-color: transparent;
+    text-decoration: none;
+    position: absolute;
+    top: 1210px;
+    left: 1070px;
+    border: 2px solid red;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
+.BotonD {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -7px;
+}
+.BotonD:hover {
+    background-color: red;
+    border: 2px solid red;
+    margin-top: 3px;
+    margin-left: -8px;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
 .ContenedorFooter {
     background-color: #171717;
 }
@@ -273,21 +269,19 @@ h2 {
 .Rojo {
     color: red;
 }
-.Texto {
-    display: flex;
-    justify-content: space-around;
-}
 .P1 {
     color: black;
     margin-left: 20px;
     margin-right: 10px;
     padding-left: 175px;
+    margin-top: -93.5px;
 }
 .P2 {
     color: black;
     margin-right: 100px;
     margin-left: 10px;
     padding-left: 150px;
+    margin-top: -93.5px;
 }
 .Team {
     height: 500px;
@@ -309,7 +303,26 @@ h2 {
 }
 .STU {
     color: red;
+    position: relative;
+    top: 20px;
+    left: 98px;
+    font-size: 45px;
+    font-weight: 800;
 }
 .CON {
     color: red;
+    position: relative;
+    top: 20px;
+    left: 830px;
+    font-size: 45px;
+    font-weight: 800;
+}
+.Col1 {
+    margin-left: 0px;
+}
+.Col2 {
+    width: 200px;
+    position: relative;
+    left: -1000px;
+    margin-left: 400px;
 }
