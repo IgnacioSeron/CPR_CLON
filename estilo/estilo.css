@@ -181,7 +181,11 @@ p, a{
     left: 530px;
 }
 .Flecha {
+    display:flex;
+    text-decoration: none;
+    color: red;
+    width: 40px;
     position: absolute;
-    top: 520px;
-    left: 600px;
+    top: 570px;
+    left: 720px;
 }
