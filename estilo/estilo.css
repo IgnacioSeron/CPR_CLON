@@ -386,7 +386,37 @@ h2 {
 }
 .wor3 {
     position: absolute;
-    top: 1925px;
-    left: 740px;
+    top: 2110px;
+    left: 265px;
+    font-size: 20px;
+}
+.van {
+    position: absolute;
+    top: 2040px;
+    left: 750px;
+    font-size: 25px;
+}
+.van2 {
+    position: absolute;
+    top: 2085px;
+    left: 705px;
+    font-size: 20px;
+}
+.van3 {
+    position: absolute;
+    top: 2110px;
+    left: 730px;
+    font-size: 20px;
+}
+.bos {
+    position: absolute;
+    top: 2210px;
+    left: 285px;
+    font-size: 25px;
+}
+.bos2 {
+    position: relative;
+    top: -100px;
+    left: 185px;
     font-size: 20px;
 }
