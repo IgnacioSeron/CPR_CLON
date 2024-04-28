@@ -142,3 +142,14 @@ p, a{
 .Slash {
     color:white;
 }
+.FotoGrande {
+    width: 1473px;
+    height: 630px;
+}
+.Logo2 {
+    height: 190px;
+    width: 275px;
+    position: absolute;
+    top: 175px;
+    left: 598px;
+}
