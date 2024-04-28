@@ -191,10 +191,39 @@ p, a {
 }
 .BloqueMain {
     background-color: white;
-    height: 980px;
+    height: 1000px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: -50px;
+}
+.MEET {
+    -webkit-text-stroke: 1px #fff;
+    color: transparent;
+    position: absolute;
+    top: 920px;
+    left: 250px;
+    font-weight: 800;
+    font-size: 120px;
+}
+.Boton1 {
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+    position: absolute;
+    top: 1210px;
+    left: 230px;
+    border: 2px solid red;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
+.Boton2 {
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 1210px;
+    left: 500px;
 }
 .ContenedorFooter {
     background-color: #171717;
@@ -205,23 +234,27 @@ h2 {
 .Negro {
     color: #171717;
 }
+.Negro2 {
+    margin-left: 10px;
+}
 .Rojo {
     color: red;
 }
 .Texto {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 .P1 {
     color: black;
     margin-left: 20px;
     margin-right: 10px;
-    padding-right: 200px;
+    padding-left: 175px;
 }
 .P2 {
     color: black;
-    margin-right: 20px;
+    margin-right: 100px;
     margin-left: 10px;
+    padding-left: 150px;
 }
 .Team {
     height: 500px;
@@ -233,7 +266,17 @@ h2 {
     width: 640px;
     margin-left: 10px;
 }
+.Columna1 {
+    margin-left: 80px;
+}
 .BloqueMain2 {
     background-color: #f6f6f6;
     height: 500px;
+    display: flex;
+}
+.STU {
+    color: red;
+}
+.CON {
+    color: red;
 }
