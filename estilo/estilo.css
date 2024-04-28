@@ -207,23 +207,56 @@ p, a {
     font-size: 120px;
 }
 .Boton1 {
-    color: white;
+    background-color: transparent;
     text-decoration: none;
-    justify-content: center;
     position: absolute;
     top: 1210px;
-    left: 230px;
+    left: 150px;
     border: 2px solid red;
     border-radius: 100px;
     height: 50px;
     width: 250px;
 }
+.BotonA{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -7px;
+}
+.BotonA:hover {
+    background-color: red;
+    border: 2px solid red;
+    margin-top: 3px;
+    margin-left: -8px;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
 .Boton2 {
-    color: white;
+    background-color: transparent;
     text-decoration: none;
     position: absolute;
     top: 1210px;
-    left: 500px;
+    left: 420px;
+    border: 2px solid red;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
+}
+.BotonB {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -7px;
+}
+.BotonB:hover {
+    background-color: red;
+    border: 2px solid red;
+    margin-top: 3px;
+    margin-left: -8px;
+    border-radius: 100px;
+    height: 50px;
+    width: 250px;
 }
 .ContenedorFooter {
     background-color: #171717;
