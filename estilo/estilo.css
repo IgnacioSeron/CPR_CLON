@@ -259,26 +259,37 @@ h2 {
 }
 .Negro {
     color: #171717;
+    font-weight: 800;
+    font-size: 30px;
 }
 .Negro2 {
     margin-left: 10px;
+    font-weight: 800;
+    font-size: 30px;
 }
 .Rojo {
     color: red;
+    font-weight: 800;
+    font-size: 30px;
+}
+.Rojo2 {
+    color: red;
+    font-weight: 800;
+    font-size: 30px;
 }
 .P1 {
     color: black;
-    margin-left: 20px;
+    margin-left: 70px;
     margin-right: 10px;
-    padding-left: 175px;
-    margin-top: -93.5px;
+    padding-left: 150px;
+    margin-top: -130px;
 }
 .P2 {
     color: black;
     margin-right: 100px;
-    margin-left: 10px;
+    margin-left: 70px;
     padding-left: 150px;
-    margin-top: -93.5px;
+    margin-top: -130px;
 }
 .Team {
     height: 500px;
@@ -292,6 +303,9 @@ h2 {
 }
 .Columna1 {
     margin-left: 80px;
+}
+.Columna2 {
+    margin-top: 25px;
 }
 .BloqueMain2 {
     background-color: #f6f6f6;
@@ -429,7 +443,7 @@ h2 {
     width: 230px;
     position: relative;
     top: 35px;
-    left: 700px;
+    left: 845px;
 }
 .redes {
     display: flex;
@@ -438,11 +452,45 @@ h2 {
     top: 40px;
     left: 740px;
 }
+.redes a:hover {
+    color: red;
+}
 .Derecha1 {
+    display: flex;
     position: relative;
-    right: 730px;
+    right: 500px;
     top: 40px;
 }
-.Derecha a {
+.Derecha1 a {
     text-decoration: none;
+    font-size: 15px;
+}
+.Derecha1 a:hover {
+    color: red;
+}
+.Copy {
+    color: #4f575e;
+    font-size: 14px;
+}
+.Corporate {
+    margin-right: 10px;
+}
+.UserA, .PrivacyP, .CookieP, .Store, .Forum, .Support, .TMF, .Spokko, .GOG {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.Copy {
+    color: #4f575e;
+    position: relative;
+    font-size: 16px;
+    top: 70px;
+    right: 1118px;
+
+}
+.Galleta {
+    color: #4f575e;
+    position: relative;
+    font-size: 16px;
+    top: 70px;
+    right: 805px;
 }
