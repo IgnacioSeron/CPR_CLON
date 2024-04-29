@@ -494,3 +494,18 @@ h2 {
     top: 70px;
     right: 805px;
 }
+.Business {
+    color: #171717;
+    font-size: 18px;
+    position: absolute;
+    top: 160px;
+    left: 833px;
+}
+.biz {
+    color: #171717;
+    font-size: 22px;
+    font-weight: 800;
+    position: absolute;
+    top: 200;
+    left: 830px;    
+}
