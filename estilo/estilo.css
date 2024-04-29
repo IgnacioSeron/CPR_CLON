@@ -514,7 +514,7 @@ h2 {
     color: #171717;
     font-size: 18px;
     position: absolute;
-    top: 220px;
+    top: 240px;
     left: 833px;
 }
 .media {
@@ -522,7 +522,7 @@ h2 {
     font-size: 22px;
     font-weight: 800;
     position: absolute;
-    top: 299px;
+    top: 320px;
     left: 833px;
     text-decoration: none;
 }
@@ -530,6 +530,31 @@ h2 {
     color: #171717;
     font-size: 18px;
     position: absolute;
-    top: 320px;
+    top: 360px;
     left: 833px;
+}
+.ir {
+    color:#171717;
+    font-size: 22px;
+    font-weight: 800;
+    position: absolute;
+    top: 400px;
+    left: 833px;
+    text-decoration: none;
+}
+.Job {
+    color: #171717;
+    font-size: 18px;
+    position: absolute;
+    top: 440px;
+    left: 833px;
+}
+.jobs {
+    color:#171717;
+    font-size: 22px;
+    font-weight: 800;
+    position: absolute;
+    top: 500px;
+    left: 833px;
+    text-decoration: none;
 }
