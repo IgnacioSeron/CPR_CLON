@@ -254,9 +254,6 @@ p, a {
     height: 50px;
     width: 250px;
 }
-.ContenedorFooter {
-    background-color: #171717;
-}
 h2 {
     font-family: 'Proxima Nova Extra Condensed', sans-serif;
 }
@@ -419,4 +416,15 @@ h2 {
     top: -100px;
     left: 185px;
     font-size: 20px;
+}
+.ContenedorFooter {
+    background-color: #171717;
+    height: 165px;
+}
+.logo3 {
+    height: 87px;
+    width: 230px;
+    position: relative;
+    top: 35px;
+    left: 1145px;
 }
