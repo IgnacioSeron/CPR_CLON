@@ -519,8 +519,10 @@ h2 {
 }
 .media {
     color:#171717;
-    font-size: 18px;
+    font-size: 22px;
+    font-weight: 800;
     position: absolute;
-    top: 280px;
+    top: 299px;
     left: 833px;
+    text-decoration: none;
 }
